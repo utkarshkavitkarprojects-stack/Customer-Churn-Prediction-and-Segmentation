@@ -104,12 +104,6 @@ Interactive app supports:
 ```bash
 Customer-Churn-Prediction-and-Segmentation/
 │
-├── app.py
-├── main.py
-├── requirements.txt
-├── README.md
-├── .gitignore
-│
 ├── artifacts/
 │   ├── best_xgb_model.pkl
 │   ├── final_feature_columns.pkl
@@ -118,8 +112,15 @@ Customer-Churn-Prediction-and-Segmentation/
 │   ├── cluster_scaler.pkl
 │   ├── cluster_feature_columns.pkl
 │   ├── segment_mapping.json
+│   
+├── assets/
+│   ├── app_home.png
+│   ├── app_home_2.png
+│   ├── bulk_prediction_dashboard.png
+│   ├── single_prediction_dashboard.png
+│   ├── Single_Prediction_results.png
 │
-├── data/
+├── data/raw
 │   └── telecom_churn.csv
 │
 ├── notebooks/
@@ -127,13 +128,26 @@ Customer-Churn-Prediction-and-Segmentation/
 │   ├── 02_feature_engineering_and_preprocessing.ipynb
 │   ├── 03_feature_selection_and_model_training.ipynb
 │   ├── 04_clustering_and_customer_segmentation.ipynb
-│   ├── 05_threshold_tuning_and_business_decisioning.ipynb
+│   ├── 05_threshold_tuning.ipynb
+│   ├── 06_business_insights.ipynb
 │
 ├── model_graphs/
-│   ├── confusion_matrix_and_roc_curves.png
+│   ├── Best_confusion_matrix.png
+│   ├── Best_roc_curve.png
+│   ├── Logistic_Regression_confusion_matrix.png
+│   ├── Logistic_Regression_roc_curve.png
+│   ├── Random_Forest_confusion_matrix.png
+│   ├── Random_Forest_roc_curve.png
+│   ├── Xgboost_confusion_matrix.png
+│   ├── Xgboost_roc_curve.png
+│
+├── models/
+│   ├── best_model.pkl
+│   ├── logistic_regression_model.pkl
+│   ├── random_forest_model.pkl
+│   ├── xgboost_model.pkl
 │
 ├── src/
-│   ├── __init__.py
 │   ├── data_loader.py
 │   ├── feature_engineering.py
 │   ├── data_preprocessing.py
@@ -144,6 +158,12 @@ Customer-Churn-Prediction-and-Segmentation/
 │   ├── threshold_tuning.py
 │   ├── predict.py
 │   ├── segment_predict.py
+|
+├── app.py
+├── main.py
+├── requirements.txt
+├── README.md
+├── .gitignore
 ```
 
 ---
