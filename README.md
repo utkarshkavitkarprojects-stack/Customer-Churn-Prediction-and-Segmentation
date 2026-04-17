@@ -27,9 +27,13 @@ The goal of this project is to build a practical ML solution that can help telec
 
 ## 🌐 Live Demo
 
-🚀 Try the deployed app here:  
+🚀 Try the deployed app here:
+
 👉 https://customer-churn-prediction-and-segmentation.streamlit.app/
+
 ⚠️ Note: The app may take a few seconds to load initially due to inactivity (free hosting behavior).
+
+---
 
 ## 🧠 Business Problem
 
