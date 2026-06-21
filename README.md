@@ -52,6 +52,20 @@ This project improves business usability by combining **churn prediction + custo
 
 That makes retention strategy much more actionable.
 
+## 🌍 Applications for Non-Profit Organizations
+
+Although this project was built for the telecom domain, the same machine learning framework can be adapted for non-profit organizations such as NayePankh Foundation.
+
+Potential applications include:
+
+- Donor retention prediction
+- Volunteer engagement prediction
+- Campaign effectiveness analysis
+- Beneficiary segmentation
+- Personalized outreach strategies
+
+The combination of predictive modeling and segmentation can help organizations make more data-driven decisions and allocate resources more effectively.
+
 ---
 
 ## 📌 Key Features
