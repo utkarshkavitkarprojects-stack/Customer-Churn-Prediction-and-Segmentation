@@ -389,7 +389,7 @@ This solution can be used by:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Customer-Churn-Prediction-and-Segmentation.git
+git clone https://github.com/utkarshkavitkarprojects-stack/Customer-Churn-Prediction-and-Segmentation.git
 cd Customer-Churn-Prediction-and-Segmentation
 ```
 
