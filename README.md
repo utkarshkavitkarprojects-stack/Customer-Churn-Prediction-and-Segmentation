@@ -54,7 +54,7 @@ That makes retention strategy much more actionable.
 
 ## 🌍 Applications for Non-Profit Organizations
 
-Although this project was built for the telecom domain, the same machine learning framework can be adapted for non-profit organizations such as NayePankh Foundation.
+Although this project was built for the telecom domain, the same machine learning framework can be adapted for non-profit organizations such as **NayePankh** **Foundation.**
 
 Potential applications include:
 
